@@ -1,0 +1,26 @@
+body {
+  margin: 5%;
+  padding: 10%;
+  background-color: rgb(31, 31, 31);
+  color: white;
+}
+
+a {
+  display: block;
+}
+
+input {
+  font-size: larger;
+  background-color: red;
+  color: white;
+  border: 0;
+  border-radius: 50px;
+}
+input:hover{
+  background-color: white;
+  color: red;
+  cursor: pointer;
+}
+span{
+  color: red;
+}
