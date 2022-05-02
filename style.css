@@ -24,3 +24,6 @@ input:hover{
 span{
   color: red;
 }
+span:hover{
+  color: yellow;
+}
