@@ -22,10 +22,11 @@ input:hover{
   cursor: pointer;
 }
 span{
-  color: red;
+  color: orange;
 }
 span:hover{
-  color:yelloW;
+  color:red;
+  font-size: 50px;
 }
 img{
   height: 250px;
